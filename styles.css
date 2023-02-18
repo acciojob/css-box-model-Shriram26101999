@@ -1,8 +1,12 @@
 .box{
+	border:1px solid black;
+}
+.box1{
+	
 	width: 300px;
 	border: 15px solid blue;
 	padding: 50px;
-	margin: 28px;
+	margin: 20px;
 	background-color: lightblue
 }
 /* Your CSS Code here. */
