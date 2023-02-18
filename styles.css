@@ -1,15 +1,19 @@
 
 /* Your CSS Code here. */
 .b{
-	padding:50px;
+
+	border:1px solid black;
+/* 	padding:50px;
 	background-color:lightblue;
 	width:300px;
 	border:15px solid blue;
-	margin:20px;
+	margin:20px; */
 }
 
 /* Your CSS Code here. */
 .bb{
+	
+	border:1px solid black;
 	padding:50px;
 	background-color:lightblue;
 	width:300px;
