@@ -2,12 +2,14 @@
 /* Your CSS Code here. */
 .pp{
 	//margin: 20px;
-	
-}
-.pp2{
+
 	border:15px solid blue;
 	margin:20px;
 	width:300px;
 	background:lightblue;
 	padding: 50px;
+	
+}
+.pp2{
+	
 }
